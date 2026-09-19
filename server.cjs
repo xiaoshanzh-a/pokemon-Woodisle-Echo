@@ -1,0 +1,4 @@
+const http=require('http'),fs=require('fs'),path=require('path');
+const root=__dirname,port=Number(process.env.PORT||4188);
+const mime={'.html':'text/html; charset=utf-8','.js':'text/javascript; charset=utf-8','.css':'text/css; charset=utf-8','.png':'image/png','.jpg':'image/jpeg','.json':'application/json','.wav':'audio/wav','.mp3':'audio/mpeg'};
+http.createServer((req,res)=>{let p;try{p=decodeURIComponent(new URL(req.url,'http://localhost').pathname)}catch{res.writeHead(400);return res.end('Bad URL')};const file=path.resolve(root,'.'+(p==='/'?'/index.html':p));if(!file.startsWith(root+path.sep)||!mime[path.extname(file)]){res.writeHead(403);return res.end('Forbidden')};fs.readFile(file,(e,d)=>{if(e){res.writeHead(404);return res.end('Not found')};res.writeHead(200,{'Content-Type':mime[path.extname(file)],'Cache-Control':'no-cache'});res.end(d)})}).listen(port,'127.0.0.1',()=>console.log('森屿回响 http://127.0.0.1:'+port));

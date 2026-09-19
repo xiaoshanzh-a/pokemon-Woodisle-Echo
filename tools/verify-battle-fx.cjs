@@ -1,0 +1,8 @@
+const {chromium}=require('C:/Users/Sheng/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules/playwright');
+const assert=require('node:assert/strict');
+(async()=>{const browser=await chromium.launch({headless:true,executablePath:'C:/Program Files/Google/Chrome/Application/chrome.exe'});try{const page=await browser.newPage({viewport:{width:1440,height:1060}}),errors=[];page.on('pageerror',e=>errors.push(e.message));await page.goto('http://127.0.0.1:4188');await page.waitForFunction(()=>window.echoDiagnostics?.().ready);
+ await page.evaluate(()=>{const b=document.querySelector('#battle');b.hidden=false;b.innerHTML='<img class="battle-mon ally" src="assets/charmander-back.png"><img class="battle-mon enemy" src="assets/bulbasaur-front.png">'});
+ for(const type of ['火','水','电','草','虫','飞行','毒','妖精','超能','幽灵','岩石','龙','冰','一般']){await page.evaluate(async type=>{const {battleFX}=await import('./battle-fx.js');await battleFX('attack',{type})},type);assert.equal(await page.locator('.battle-fx').count(),0)}
+ await page.evaluate(()=>{import('./battle-fx.js').then(({battleFX})=>battleFX('attack',{type:'火'}))});await page.waitForTimeout(300);await page.screenshot({path:__dirname+'/../battle-animation.png'});await page.waitForTimeout(900);
+ for(const kind of ['sendout','heal','catch','faint'])await page.evaluate(async kind=>{const {battleFX}=await import('./battle-fx.js');await battleFX(kind)},kind);
+ assert.deepEqual(errors,[]);console.log('PASS 14 type animations, healing, capture, faint and effect cleanup');}finally{await browser.close()}})().catch(e=>{console.error(e);process.exit(1)});

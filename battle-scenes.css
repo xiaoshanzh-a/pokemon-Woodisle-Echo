@@ -1,0 +1,12 @@
+#battle{--sky:#b7d7c7;--ground:#abc08d;background:linear-gradient(var(--sky),#e5efd1 46%,var(--ground) 47%,var(--ground) 77%,#fcfcf0 77%)}
+#battle[data-biome="forest"],#battle[data-biome="safari"]{--sky:#719878;--ground:#8aaf74;background:radial-gradient(ellipse at 5% 15%,#284e3c 0 12%,transparent 13%),radial-gradient(ellipse at 95% 10%,#366e46 0 19%,transparent 20%),linear-gradient(var(--sky),#d9e7b4 46%,var(--ground) 47%,var(--ground) 77%,#fcfcf0 77%)}
+#battle[data-biome="coast"]{--sky:#97d9ea;--ground:#e6d4a0;background:linear-gradient(#96d4e9,#e0f0e9 38%,#57acbd 39% 52%,#e6d4a0 53% 77%,#fcfcf0 77%)}
+#battle[data-biome="cave"],#battle[data-biome="ruin"]{--sky:#384b60;--ground:#798b96;background:radial-gradient(ellipse at 50% 18%,#90a8cc88,transparent 55%),linear-gradient(#263944,#5e7380 46%,#859391 47% 77%,#fcfcf0 77%)}
+#battle[data-biome="garden"]{--sky:#9bd9b3;--ground:#b9cc9b}
+#battle:before{content:'';position:absolute;inset:0 0 23%;pointer-events:none;background:radial-gradient(circle at 15% 25%,#fffbc9 0 2px,transparent 3px),radial-gradient(circle at 75% 45%,#fffbc999 0 3px,transparent 4px),radial-gradient(circle at 35% 70%,#ffffff88 0 2px,transparent 3px);background-size:210px 150px;animation:battle-weather 12s linear infinite}
+#battle:after{content:'';position:absolute;left:3%;right:3%;top:44%;height:32%;pointer-events:none;background:radial-gradient(ellipse at 22% 80%,#f3f2cd88 0 18%,transparent 19%),radial-gradient(ellipse at 80% 12%,#f3f2cd88 0 17%,transparent 18%)}
+#battle .battle-mon,#battle .battle-stat,#battle .battle-top,#battle .battle-bottom{z-index:2}#battle[data-legendary="true"]:before{background:repeating-conic-gradient(from 0deg at 80% 25%,transparent 0 22deg,#fff3ae22 23deg 25deg);animation:legendary-light 3s ease-in-out infinite}
+@keyframes battle-weather{to{background-position:210px -150px}}@keyframes legendary-light{50%{opacity:.25}}
+#battle[data-biome="cave"] .battle-top,#battle[data-biome="ruin"] .battle-top{color:#ecf4e4}
+#battle[data-biome="coast"]:before{background-image:repeating-linear-gradient(175deg,transparent 0 45px,#e1ffff44 47px 49px,transparent 51px 80px);opacity:.5}
+@media(prefers-reduced-motion:reduce){#battle:before{animation:none}}

@@ -1,0 +1,23 @@
+# Local visual QA captures and generated review images
+/*.png
+/*.jpg
+*-review.png
+desktop*.png
+mobile.png
+legendary-area-*.png
+legendary-battle.png
+legend-survey-battle.png
+save-slots-*.png
+growth-team-review.png
+wildland-*.png
+
+# One-off local QA harnesses; runtime does not need them
+audit-*.cjs
+capture-*.cjs
+test-*.cjs
+fetch-evolution-assets.cjs
+
+# Browser and editor state
+.playwright-mcp/
+.DS_Store
+Thumbs.db

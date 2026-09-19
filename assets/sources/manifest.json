@@ -1,0 +1,1094 @@
+[
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "5ED60CB1AAA9EC6F7C01BEA7F166A8208D287799D566DEC550D2ED5D067426DD",
+    "entry": "pokeemerald-master/README.md",
+    "path": "assets/sources/pokeemerald-master/README.md"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "05C2F36FAA50184B34BA2314CCC5026599E9D39D52077B1D5C2428CF26BEF241",
+    "entry": "pokeemerald-master/data/maps/FortreeCity/map.json",
+    "path": "assets/sources/pokeemerald-master/data/maps/FortreeCity/map.json"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "66023F4F76EF25110320C6D9DEDED15941E168D286DAAF3AAA9DA2A8B582794E",
+    "entry": "pokeemerald-master/data/maps/LilycoveCity/map.json",
+    "path": "assets/sources/pokeemerald-master/data/maps/LilycoveCity/map.json"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "9650AD4B2284DD2B48894818B21AD91ACC27647F4D3EC2ED6DE6D62516A1FAAC",
+    "entry": "pokeemerald-master/data/maps/Route119/map.json",
+    "path": "assets/sources/pokeemerald-master/data/maps/Route119/map.json"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "09E84E6A32F1AB831EEF187356C2FC3EF4BA6E196F44753D59C04ECA957B38CD",
+    "entry": "pokeemerald-master/data/maps/SlateportCity/map.json",
+    "path": "assets/sources/pokeemerald-master/data/maps/SlateportCity/map.json"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "C033E523BB99488B27561957185CF0413A744CE4C994DF9CEC20F43367639143",
+    "entry": "pokeemerald-master/data/tilesets/primary/general/anim/flower/0.png",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/primary/general/anim/flower/0.png"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "3423723CA6D73E793C8C62BB6D500B21A22533DC5CADB769571F3AAD8033C300",
+    "entry": "pokeemerald-master/data/tilesets/primary/general/anim/flower/1.png",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/primary/general/anim/flower/1.png"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "0BACD2807BD601C49A817090E40CEF95EE0865B8BE8C75712CC4422A8E194525",
+    "entry": "pokeemerald-master/data/tilesets/primary/general/anim/flower/2.png",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/primary/general/anim/flower/2.png"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "383E42BAF2ABA145AE459B238D15B3747FBEA283ACCEF89FC698D79ED69B0DDC",
+    "entry": "pokeemerald-master/data/tilesets/primary/general/anim/land_water_edge/0.png",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/primary/general/anim/land_water_edge/0.png"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "405241CE8C58FF1A8B9AA4713B071A6C8C7840308BC251EA125B42CC3044C8BA",
+    "entry": "pokeemerald-master/data/tilesets/primary/general/anim/land_water_edge/1.png",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/primary/general/anim/land_water_edge/1.png"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "5E39979A6EA36F95B3821F7E8DC4727146E16567F3403ED4D501C0283E8E1188",
+    "entry": "pokeemerald-master/data/tilesets/primary/general/anim/land_water_edge/2.png",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/primary/general/anim/land_water_edge/2.png"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "E102556AF2F57DA88E718A94124D19B8D7345C3974152860C743E5404CC6277B",
+    "entry": "pokeemerald-master/data/tilesets/primary/general/anim/land_water_edge/3.png",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/primary/general/anim/land_water_edge/3.png"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "7ECF06C81C515F47A5AFE765EE2364204AF2FAE3A34ED70274BB483D44021B7B",
+    "entry": "pokeemerald-master/data/tilesets/primary/general/anim/sand_water_edge/0.png",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/primary/general/anim/sand_water_edge/0.png"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "A5D2B701EDC733E79A9C2B6D40269633AEB02906A1AA97099CCCD394AC784231",
+    "entry": "pokeemerald-master/data/tilesets/primary/general/anim/sand_water_edge/1.png",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/primary/general/anim/sand_water_edge/1.png"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "A6BBD09708D3B024A2C5CA6D527892C4BB7C5AC90AB57F8C873F2CF9389C4253",
+    "entry": "pokeemerald-master/data/tilesets/primary/general/anim/sand_water_edge/2.png",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/primary/general/anim/sand_water_edge/2.png"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "9D8583767550C917B537680DE03D2B69D0239C9C3FB195F83933E458C70AF59C",
+    "entry": "pokeemerald-master/data/tilesets/primary/general/anim/sand_water_edge/3.png",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/primary/general/anim/sand_water_edge/3.png"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "3C6CCE3B44AEB276CD9BC8F8DF7F502DC3519B5D0556AD757369DC9CBB195812",
+    "entry": "pokeemerald-master/data/tilesets/primary/general/anim/sand_water_edge/4.png",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/primary/general/anim/sand_water_edge/4.png"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "8F623A5E3FA1FF32E3B3782128ABA926392F44E522B0D2FB777B87A2CA315D52",
+    "entry": "pokeemerald-master/data/tilesets/primary/general/anim/sand_water_edge/5.png",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/primary/general/anim/sand_water_edge/5.png"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "9D81B6A78AA3A5FB33EC2F759E0C9A4C882564F0DC355B6E8595A9EBCA299C88",
+    "entry": "pokeemerald-master/data/tilesets/primary/general/anim/sand_water_edge/6.png",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/primary/general/anim/sand_water_edge/6.png"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "7D23D5C4D44119DF9A8D248FCFF6B9E49F86328329CB98EEE7BD1CF3EFB4574A",
+    "entry": "pokeemerald-master/data/tilesets/primary/general/anim/water/0.png",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/primary/general/anim/water/0.png"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "3ED22A92529680B3811A3F43E5B72ED802B4F04DDF1FAA60D7ED40C034A5DE8A",
+    "entry": "pokeemerald-master/data/tilesets/primary/general/anim/water/1.png",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/primary/general/anim/water/1.png"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "C43D46C8CE945D3ED6EEBB4C83F488A4D72C0973437AA4835E113BA2A19D3050",
+    "entry": "pokeemerald-master/data/tilesets/primary/general/anim/water/2.png",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/primary/general/anim/water/2.png"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "25421553A13EE038E4C558AFA6EFAA5C0CEA2553AC5B927D7A931973FCC16312",
+    "entry": "pokeemerald-master/data/tilesets/primary/general/anim/water/3.png",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/primary/general/anim/water/3.png"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "5C4AB93485037D92822BA90261DAA500509D8E758422636A22032F47EF9506E0",
+    "entry": "pokeemerald-master/data/tilesets/primary/general/anim/water/4.png",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/primary/general/anim/water/4.png"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "ACBA6BE3824304D780403AB09272A44553FF3343DD9507A052355FDBA84D2F39",
+    "entry": "pokeemerald-master/data/tilesets/primary/general/anim/water/5.png",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/primary/general/anim/water/5.png"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "E5B6FE8A0DAD6E6F384DCDE8DDB1B5F8333205BAC27DC0E97340741B917AA22D",
+    "entry": "pokeemerald-master/data/tilesets/primary/general/anim/water/6.png",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/primary/general/anim/water/6.png"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "B0FEE407E725786BC62C24B3D6EC97DB2EAD2B00451BCB2D91C59C2EEC3F8D38",
+    "entry": "pokeemerald-master/data/tilesets/primary/general/anim/water/7.png",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/primary/general/anim/water/7.png"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "A16B6D7B104A15552D43B002486F53A14488A058577D58179411C6D55DB7E5AB",
+    "entry": "pokeemerald-master/data/tilesets/primary/general/anim/waterfall/0.png",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/primary/general/anim/waterfall/0.png"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "DD492AED02B437F39EBA0458045595B69D1FD1AA66F45224B5228E8A2557B05B",
+    "entry": "pokeemerald-master/data/tilesets/primary/general/anim/waterfall/1.png",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/primary/general/anim/waterfall/1.png"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "1FEB817CA15B57FBAC9CC1B8ED2CE86A2D82CE5F54A2EE7BF694D68482588172",
+    "entry": "pokeemerald-master/data/tilesets/primary/general/anim/waterfall/2.png",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/primary/general/anim/waterfall/2.png"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "7AA7255D79F5F2C9E4A1D6ABB8D4830EF2DF64BCA738531110C1DCC294177379",
+    "entry": "pokeemerald-master/data/tilesets/primary/general/anim/waterfall/3.png",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/primary/general/anim/waterfall/3.png"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "06C9548A6C70D133B6D47638090F5D36F3FEC92AACE3D90DECA758A4404CFA9B",
+    "entry": "pokeemerald-master/data/tilesets/primary/general/metatile_attributes.bin",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/primary/general/metatile_attributes.bin"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "17974B0BA1BB9D105D5BA255C69A3B80D8484A26EA0B8FF22C6C6567C6C22910",
+    "entry": "pokeemerald-master/data/tilesets/primary/general/metatiles.bin",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/primary/general/metatiles.bin"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "E7FEC32EEF41A79D6D45E7F5AF9DC74717A1D40CE07AA7CEF37EEB7EDD47F579",
+    "entry": "pokeemerald-master/data/tilesets/primary/general/palettes/00.pal",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/primary/general/palettes/00.pal"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "C17687ECE4BB432D345B43B4E806EBBA741553B1ED83B0F46207CE537DB5D25C",
+    "entry": "pokeemerald-master/data/tilesets/primary/general/palettes/01.pal",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/primary/general/palettes/01.pal"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "6A2609B1C79E8489ED11182EB075EDF0E25D80B5B3B7912C0DE20DC5DA594EB9",
+    "entry": "pokeemerald-master/data/tilesets/primary/general/palettes/02.pal",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/primary/general/palettes/02.pal"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "1556F735BBB61B32D99E9FEBA63441C83CFC25EA11D5AAA7C99AC3BE92CC7A19",
+    "entry": "pokeemerald-master/data/tilesets/primary/general/palettes/03.pal",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/primary/general/palettes/03.pal"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "36F8DE115ED9A96BAB2035F4D3D10988AC2365E4FC2B530FEB7EA2EF09772F68",
+    "entry": "pokeemerald-master/data/tilesets/primary/general/palettes/04.pal",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/primary/general/palettes/04.pal"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "8356B54B4D39ED880B83F39C82B61699DD720E28EB2EBC2D80A4BD360D8720E2",
+    "entry": "pokeemerald-master/data/tilesets/primary/general/palettes/05.pal",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/primary/general/palettes/05.pal"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "EA391B70A00C55F0FE13590E345EE9B66FB9013864B737F40258D99F70F6EB04",
+    "entry": "pokeemerald-master/data/tilesets/primary/general/palettes/06.pal",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/primary/general/palettes/06.pal"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "155F2285FB5C81CB4CA4258E37F647051B747542C2099A81102C7C46A975B3F5",
+    "entry": "pokeemerald-master/data/tilesets/primary/general/palettes/07.pal",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/primary/general/palettes/07.pal"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "EA391B70A00C55F0FE13590E345EE9B66FB9013864B737F40258D99F70F6EB04",
+    "entry": "pokeemerald-master/data/tilesets/primary/general/palettes/08.pal",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/primary/general/palettes/08.pal"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "EA391B70A00C55F0FE13590E345EE9B66FB9013864B737F40258D99F70F6EB04",
+    "entry": "pokeemerald-master/data/tilesets/primary/general/palettes/09.pal",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/primary/general/palettes/09.pal"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "EA391B70A00C55F0FE13590E345EE9B66FB9013864B737F40258D99F70F6EB04",
+    "entry": "pokeemerald-master/data/tilesets/primary/general/palettes/10.pal",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/primary/general/palettes/10.pal"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "EA391B70A00C55F0FE13590E345EE9B66FB9013864B737F40258D99F70F6EB04",
+    "entry": "pokeemerald-master/data/tilesets/primary/general/palettes/11.pal",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/primary/general/palettes/11.pal"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "EA391B70A00C55F0FE13590E345EE9B66FB9013864B737F40258D99F70F6EB04",
+    "entry": "pokeemerald-master/data/tilesets/primary/general/palettes/12.pal",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/primary/general/palettes/12.pal"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "EA391B70A00C55F0FE13590E345EE9B66FB9013864B737F40258D99F70F6EB04",
+    "entry": "pokeemerald-master/data/tilesets/primary/general/palettes/13.pal",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/primary/general/palettes/13.pal"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "EA391B70A00C55F0FE13590E345EE9B66FB9013864B737F40258D99F70F6EB04",
+    "entry": "pokeemerald-master/data/tilesets/primary/general/palettes/14.pal",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/primary/general/palettes/14.pal"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "1579046ED0C59DCFA931C6D4B181F363F714DD2127FC04F960F74BE95287195B",
+    "entry": "pokeemerald-master/data/tilesets/primary/general/palettes/15.pal",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/primary/general/palettes/15.pal"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "365BA5482E7564763E614A0009900D1C317790DCD9F7A06C4AB74C363A3BA2F5",
+    "entry": "pokeemerald-master/data/tilesets/primary/general/tiles.png",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/primary/general/tiles.png"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "A26D3EE08BEBA6C1C5A4B450D30555EC2C1E69EC77C34BEB3C3CED7A34DF901C",
+    "entry": "pokeemerald-master/data/tilesets/secondary/fortree/metatile_attributes.bin",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/secondary/fortree/metatile_attributes.bin"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "6B2CCA5405514A7C69AD65575EAD55EA69D2936BF6A9925FFAD8DB32C80E06B0",
+    "entry": "pokeemerald-master/data/tilesets/secondary/fortree/metatiles.bin",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/secondary/fortree/metatiles.bin"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "3B438EBBEBC38CAF94D0F5CA262D671EDD270ED8ED8F844369B89796E392DFC9",
+    "entry": "pokeemerald-master/data/tilesets/secondary/fortree/palettes/00.pal",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/secondary/fortree/palettes/00.pal"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "B78F36BDC1CD92546414D775D7E18F5A7139427872D0E076498D77C069DBE922",
+    "entry": "pokeemerald-master/data/tilesets/secondary/fortree/palettes/01.pal",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/secondary/fortree/palettes/01.pal"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "B4E202B619B0774188325CD55389CA9199A878F35B5132DD608199AE9061DB50",
+    "entry": "pokeemerald-master/data/tilesets/secondary/fortree/palettes/02.pal",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/secondary/fortree/palettes/02.pal"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "DD8C605EF87101B28E6987314BB077B56E0C3DBE18861DC006F8A30E8E3372F2",
+    "entry": "pokeemerald-master/data/tilesets/secondary/fortree/palettes/03.pal",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/secondary/fortree/palettes/03.pal"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "CE5E1E4446D8D18C776BDDE8B28B50422D207A0C6EACBB5F780DE821D07685F8",
+    "entry": "pokeemerald-master/data/tilesets/secondary/fortree/palettes/04.pal",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/secondary/fortree/palettes/04.pal"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "0D4DC5854B4E777F0BE9BB52424E8546EB3F89590765878C330E3AB72C41BDC8",
+    "entry": "pokeemerald-master/data/tilesets/secondary/fortree/palettes/05.pal",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/secondary/fortree/palettes/05.pal"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "7A1F5C1A1A30D0A92E46108D84DE3108AF0EEA7808A7793DC342794A3B79265D",
+    "entry": "pokeemerald-master/data/tilesets/secondary/fortree/palettes/06.pal",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/secondary/fortree/palettes/06.pal"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "7A1F5C1A1A30D0A92E46108D84DE3108AF0EEA7808A7793DC342794A3B79265D",
+    "entry": "pokeemerald-master/data/tilesets/secondary/fortree/palettes/07.pal",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/secondary/fortree/palettes/07.pal"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "594316A68B40F800D41C27AB62089155BCEC94CDE88899ECEA0053DCA903722F",
+    "entry": "pokeemerald-master/data/tilesets/secondary/fortree/palettes/08.pal",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/secondary/fortree/palettes/08.pal"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "8754AD0B52B1846F710C0A163F51BBB3C98A494F97096901D83B79714B07407E",
+    "entry": "pokeemerald-master/data/tilesets/secondary/fortree/palettes/09.pal",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/secondary/fortree/palettes/09.pal"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "062F09CF13CAC2C1F8FF624E207FA2D3D022D01D0101EF5C2989613DB325D1AE",
+    "entry": "pokeemerald-master/data/tilesets/secondary/fortree/palettes/10.pal",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/secondary/fortree/palettes/10.pal"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "AA7F36D14B53CF738A6F04B1CDF1993D82AD5BAF70E57454DF2541DBBA51D5F6",
+    "entry": "pokeemerald-master/data/tilesets/secondary/fortree/palettes/11.pal",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/secondary/fortree/palettes/11.pal"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "7A1F5C1A1A30D0A92E46108D84DE3108AF0EEA7808A7793DC342794A3B79265D",
+    "entry": "pokeemerald-master/data/tilesets/secondary/fortree/palettes/12.pal",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/secondary/fortree/palettes/12.pal"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "804001FF750F57B3F7170A863F06E86F2B460FB9B53EACEF438C83FC14A624CD",
+    "entry": "pokeemerald-master/data/tilesets/secondary/fortree/palettes/13.pal",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/secondary/fortree/palettes/13.pal"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "7A1F5C1A1A30D0A92E46108D84DE3108AF0EEA7808A7793DC342794A3B79265D",
+    "entry": "pokeemerald-master/data/tilesets/secondary/fortree/palettes/14.pal",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/secondary/fortree/palettes/14.pal"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "1579046ED0C59DCFA931C6D4B181F363F714DD2127FC04F960F74BE95287195B",
+    "entry": "pokeemerald-master/data/tilesets/secondary/fortree/palettes/15.pal",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/secondary/fortree/palettes/15.pal"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "D366E2C756A226D916B010E2027F851AC912ED43D418E4E5EFB419B7CF03FE15",
+    "entry": "pokeemerald-master/data/tilesets/secondary/fortree/tiles.png",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/secondary/fortree/tiles.png"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "89A199AC8077CDC00C77661F1F0E4C80149CC1F71ADECC856CC02E7A04EDC9C5",
+    "entry": "pokeemerald-master/data/tilesets/secondary/lilycove/metatile_attributes.bin",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/secondary/lilycove/metatile_attributes.bin"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "CB7B2EFC00894275B76699BE43F3215EE0A89CC129A16FE22CFFC9CEF30D0868",
+    "entry": "pokeemerald-master/data/tilesets/secondary/lilycove/metatiles.bin",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/secondary/lilycove/metatiles.bin"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "24590E1E383394EF157DB0B3435728C3B838839FFC33D9EB984F7C98A7C2BA64",
+    "entry": "pokeemerald-master/data/tilesets/secondary/lilycove/palettes/00.pal",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/secondary/lilycove/palettes/00.pal"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "C17687ECE4BB432D345B43B4E806EBBA741553B1ED83B0F46207CE537DB5D25C",
+    "entry": "pokeemerald-master/data/tilesets/secondary/lilycove/palettes/01.pal",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/secondary/lilycove/palettes/01.pal"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "6A2609B1C79E8489ED11182EB075EDF0E25D80B5B3B7912C0DE20DC5DA594EB9",
+    "entry": "pokeemerald-master/data/tilesets/secondary/lilycove/palettes/02.pal",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/secondary/lilycove/palettes/02.pal"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "C9D062CD95CAA97B2ECC0BD3D8D4B5B3F2AD83DB88ED183B7734EDF0B55645B3",
+    "entry": "pokeemerald-master/data/tilesets/secondary/lilycove/palettes/03.pal",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/secondary/lilycove/palettes/03.pal"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "1F617C775DD998070B103A860BC15ED872DA86D79145E36F994FCCA580204BEE",
+    "entry": "pokeemerald-master/data/tilesets/secondary/lilycove/palettes/04.pal",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/secondary/lilycove/palettes/04.pal"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "8356B54B4D39ED880B83F39C82B61699DD720E28EB2EBC2D80A4BD360D8720E2",
+    "entry": "pokeemerald-master/data/tilesets/secondary/lilycove/palettes/05.pal",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/secondary/lilycove/palettes/05.pal"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "EA391B70A00C55F0FE13590E345EE9B66FB9013864B737F40258D99F70F6EB04",
+    "entry": "pokeemerald-master/data/tilesets/secondary/lilycove/palettes/06.pal",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/secondary/lilycove/palettes/06.pal"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "E24F118FBB08F7D3BB88FF26DC46B78328680646D134ED2183DC290125A63874",
+    "entry": "pokeemerald-master/data/tilesets/secondary/lilycove/palettes/07.pal",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/secondary/lilycove/palettes/07.pal"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "80800C96C3C97036176A71FB013AC77E53F7D26047A91BC80FB6F5EAB409682A",
+    "entry": "pokeemerald-master/data/tilesets/secondary/lilycove/palettes/08.pal",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/secondary/lilycove/palettes/08.pal"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "C3E783F3DAD19A02031BE98F1CD33077A6EF84ADC32C46A3789FDBF767C120A1",
+    "entry": "pokeemerald-master/data/tilesets/secondary/lilycove/palettes/09.pal",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/secondary/lilycove/palettes/09.pal"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "7E17452792474C02994AEE640E9129DBD3536007083C6D51EFDB75B2314A5A96",
+    "entry": "pokeemerald-master/data/tilesets/secondary/lilycove/palettes/10.pal",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/secondary/lilycove/palettes/10.pal"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "B94B89A50285290CD437592D3DA37AC722D4ACF1E04F36CBD038AB14F0193994",
+    "entry": "pokeemerald-master/data/tilesets/secondary/lilycove/palettes/11.pal",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/secondary/lilycove/palettes/11.pal"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "EA391B70A00C55F0FE13590E345EE9B66FB9013864B737F40258D99F70F6EB04",
+    "entry": "pokeemerald-master/data/tilesets/secondary/lilycove/palettes/12.pal",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/secondary/lilycove/palettes/12.pal"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "EA391B70A00C55F0FE13590E345EE9B66FB9013864B737F40258D99F70F6EB04",
+    "entry": "pokeemerald-master/data/tilesets/secondary/lilycove/palettes/13.pal",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/secondary/lilycove/palettes/13.pal"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "EA391B70A00C55F0FE13590E345EE9B66FB9013864B737F40258D99F70F6EB04",
+    "entry": "pokeemerald-master/data/tilesets/secondary/lilycove/palettes/14.pal",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/secondary/lilycove/palettes/14.pal"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "1579046ED0C59DCFA931C6D4B181F363F714DD2127FC04F960F74BE95287195B",
+    "entry": "pokeemerald-master/data/tilesets/secondary/lilycove/palettes/15.pal",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/secondary/lilycove/palettes/15.pal"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "B25529A506FEB24B7C04AF6B9E4AD38E7C88D67AC2E630984F75F9B41AF82024",
+    "entry": "pokeemerald-master/data/tilesets/secondary/lilycove/tiles.png",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/secondary/lilycove/tiles.png"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "D72BC380744F88C96EFA6A35CE86A8A6BB6929691D9F7F08E13BB20E95BC154D",
+    "entry": "pokeemerald-master/data/tilesets/secondary/slateport/anim/balloons/0.png",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/secondary/slateport/anim/balloons/0.png"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "98DCD04380DBDE1755C0EA76BE698F9B93F6EE79D3DD41E31F43F2BDCFD5D5B0",
+    "entry": "pokeemerald-master/data/tilesets/secondary/slateport/anim/balloons/1.png",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/secondary/slateport/anim/balloons/1.png"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "B3A1CDF503701D04354002B81EF20AB703CB501F42B408C5E7AA72791B6DC767",
+    "entry": "pokeemerald-master/data/tilesets/secondary/slateport/anim/balloons/2.png",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/secondary/slateport/anim/balloons/2.png"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "98DCD04380DBDE1755C0EA76BE698F9B93F6EE79D3DD41E31F43F2BDCFD5D5B0",
+    "entry": "pokeemerald-master/data/tilesets/secondary/slateport/anim/balloons/3.png",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/secondary/slateport/anim/balloons/3.png"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "034359B9736D7D3CDE9D1B4F351D1840671579E40F654D463DE69883D1C37648",
+    "entry": "pokeemerald-master/data/tilesets/secondary/slateport/metatile_attributes.bin",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/secondary/slateport/metatile_attributes.bin"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "438A0FDB3DCB3393B5BEE30C2866B915A8F46B655912B2205C8F6758CFA0DDBB",
+    "entry": "pokeemerald-master/data/tilesets/secondary/slateport/metatiles.bin",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/secondary/slateport/metatiles.bin"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "24590E1E383394EF157DB0B3435728C3B838839FFC33D9EB984F7C98A7C2BA64",
+    "entry": "pokeemerald-master/data/tilesets/secondary/slateport/palettes/00.pal",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/secondary/slateport/palettes/00.pal"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "C17687ECE4BB432D345B43B4E806EBBA741553B1ED83B0F46207CE537DB5D25C",
+    "entry": "pokeemerald-master/data/tilesets/secondary/slateport/palettes/01.pal",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/secondary/slateport/palettes/01.pal"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "6A2609B1C79E8489ED11182EB075EDF0E25D80B5B3B7912C0DE20DC5DA594EB9",
+    "entry": "pokeemerald-master/data/tilesets/secondary/slateport/palettes/02.pal",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/secondary/slateport/palettes/02.pal"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "C9D062CD95CAA97B2ECC0BD3D8D4B5B3F2AD83DB88ED183B7734EDF0B55645B3",
+    "entry": "pokeemerald-master/data/tilesets/secondary/slateport/palettes/03.pal",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/secondary/slateport/palettes/03.pal"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "1F617C775DD998070B103A860BC15ED872DA86D79145E36F994FCCA580204BEE",
+    "entry": "pokeemerald-master/data/tilesets/secondary/slateport/palettes/04.pal",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/secondary/slateport/palettes/04.pal"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "8356B54B4D39ED880B83F39C82B61699DD720E28EB2EBC2D80A4BD360D8720E2",
+    "entry": "pokeemerald-master/data/tilesets/secondary/slateport/palettes/05.pal",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/secondary/slateport/palettes/05.pal"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "5E68C04D088A0AFA6CB3723EB018CEA4A37FED9C48B24A8C92284CBDF8720E82",
+    "entry": "pokeemerald-master/data/tilesets/secondary/slateport/palettes/06.pal",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/secondary/slateport/palettes/06.pal"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "374DF5421411B286BFB00E78F843F6EB07FD74321FDCE2B7904E005536ADEDBC",
+    "entry": "pokeemerald-master/data/tilesets/secondary/slateport/palettes/07.pal",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/secondary/slateport/palettes/07.pal"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "C71971257ADA385FBAD29FE63143E29B67C940FCCA3D78A0665E94A52F8826AE",
+    "entry": "pokeemerald-master/data/tilesets/secondary/slateport/palettes/08.pal",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/secondary/slateport/palettes/08.pal"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "900D1C2DE30A522D7B521D24A1F21CCFBD18EB8906A7E35EB7E4C1F81E6E9E6E",
+    "entry": "pokeemerald-master/data/tilesets/secondary/slateport/palettes/09.pal",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/secondary/slateport/palettes/09.pal"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "4086D408638041D4AB9947490CDF808196ADA60CE2DAFDC56DEEF0835705930B",
+    "entry": "pokeemerald-master/data/tilesets/secondary/slateport/palettes/10.pal",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/secondary/slateport/palettes/10.pal"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "BEB34AF7C2DE64AD2FEE30210829DDC0A9B91A75BBE35023FFFAC1F2368B6FCA",
+    "entry": "pokeemerald-master/data/tilesets/secondary/slateport/palettes/11.pal",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/secondary/slateport/palettes/11.pal"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "EA391B70A00C55F0FE13590E345EE9B66FB9013864B737F40258D99F70F6EB04",
+    "entry": "pokeemerald-master/data/tilesets/secondary/slateport/palettes/12.pal",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/secondary/slateport/palettes/12.pal"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "EA391B70A00C55F0FE13590E345EE9B66FB9013864B737F40258D99F70F6EB04",
+    "entry": "pokeemerald-master/data/tilesets/secondary/slateport/palettes/13.pal",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/secondary/slateport/palettes/13.pal"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "EA391B70A00C55F0FE13590E345EE9B66FB9013864B737F40258D99F70F6EB04",
+    "entry": "pokeemerald-master/data/tilesets/secondary/slateport/palettes/14.pal",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/secondary/slateport/palettes/14.pal"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "1579046ED0C59DCFA931C6D4B181F363F714DD2127FC04F960F74BE95287195B",
+    "entry": "pokeemerald-master/data/tilesets/secondary/slateport/palettes/15.pal",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/secondary/slateport/palettes/15.pal"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "A9F3D4B49FBF4F133ECFFE88248235509AD5C155B55465231DFB44CB12562DBE",
+    "entry": "pokeemerald-master/data/tilesets/secondary/slateport/tiles.png",
+    "path": "assets/sources/pokeemerald-master/data/tilesets/secondary/slateport/tiles.png"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "19E85B98BCB7845EF88F19428DB1053CFFC3C2B9F57A53378D073369D109D049",
+    "entry": "pokeemerald-master/graphics/object_events/pics/people/boy_1.png",
+    "path": "assets/sources/pokeemerald-master/graphics/object_events/pics/people/boy_1.png"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "247406E1CECA2BD953B50858C655DEC50ACFB16B1C2FCEB449D58876880D22CA",
+    "entry": "pokeemerald-master/graphics/object_events/pics/people/girl_1.png",
+    "path": "assets/sources/pokeemerald-master/graphics/object_events/pics/people/girl_1.png"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "34319ACB3F0CE5280B4D9FC49007EBB03650D7FF4F63A6AFBB8F361DDBA9C862",
+    "entry": "pokeemerald-master/graphics/object_events/pics/people/man_3.png",
+    "path": "assets/sources/pokeemerald-master/graphics/object_events/pics/people/man_3.png"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "AABF060DF44E134E785542CF4B31D4CEFE32C65FB318B98FAA83452F4840910A",
+    "entry": "pokeemerald-master/graphics/object_events/pics/people/scientist_1.png",
+    "path": "assets/sources/pokeemerald-master/graphics/object_events/pics/people/scientist_1.png"
+  },
+  {
+    "archive": "pokeemerald-master",
+    "sha256": "CD6B23A43C76B9E1FCBA5E5811F2EEF5A86ACF5D82AF4F6F66220089D5AAEAED",
+    "entry": "pokeemerald-master/graphics/object_events/pics/people/woman_3.png",
+    "path": "assets/sources/pokeemerald-master/graphics/object_events/pics/people/woman_3.png"
+  },
+  {
+    "archive": "pokeemerald-expansion-master",
+    "sha256": "FCE0350E1767EC844A6043211996C810B7858FEE1F5D19F49D5415FE14BB0FCF",
+    "entry": "pokeemerald-expansion-master/README.md",
+    "path": "assets/sources/pokeemerald-expansion-master/README.md"
+  },
+  {
+    "archive": "pokeemerald-expansion-master",
+    "sha256": "09AD2D49ADAC642B25AD260B7764B7AFED7004B3C9152C2C863C8901DB57E653",
+    "entry": "pokeemerald-expansion-master/graphics/pokemon/aggron/back.png",
+    "path": "assets/sources/pokeemerald-expansion-master/graphics/pokemon/aggron/back.png"
+  },
+  {
+    "archive": "pokeemerald-expansion-master",
+    "sha256": "642C01827E7125BEE0FFBB6E18BBE76AB72FC5CC97A61CB5D322698057B79F2C",
+    "entry": "pokeemerald-expansion-master/graphics/pokemon/aggron/front.png",
+    "path": "assets/sources/pokeemerald-expansion-master/graphics/pokemon/aggron/front.png"
+  },
+  {
+    "archive": "pokeemerald-expansion-master",
+    "sha256": "EA04014C9DD96F8D855CC8CB957547B31FD183A3382558845F772DFCCAF02BE2",
+    "entry": "pokeemerald-expansion-master/graphics/pokemon/aggron/icon.png",
+    "path": "assets/sources/pokeemerald-expansion-master/graphics/pokemon/aggron/icon.png"
+  },
+  {
+    "archive": "pokeemerald-expansion-master",
+    "sha256": "B6EB6A5442C6B032CD7FF621C3B53813D8B45212095DD38F28A49FFFA0C87FB0",
+    "entry": "pokeemerald-expansion-master/graphics/pokemon/aggron/normal.pal",
+    "path": "assets/sources/pokeemerald-expansion-master/graphics/pokemon/aggron/normal.pal"
+  },
+  {
+    "archive": "pokeemerald-expansion-master",
+    "sha256": "924BDC1CC7668934608B968A99912FA04EF4550922C5AF147B615D3E02DCF0E3",
+    "entry": "pokeemerald-expansion-master/graphics/pokemon/ampharos/back.png",
+    "path": "assets/sources/pokeemerald-expansion-master/graphics/pokemon/ampharos/back.png"
+  },
+  {
+    "archive": "pokeemerald-expansion-master",
+    "sha256": "FF3269F26F0691E875CE5B16B1BF8AC6192FF240D1A9F236D5FB0754E1B486D8",
+    "entry": "pokeemerald-expansion-master/graphics/pokemon/ampharos/front.png",
+    "path": "assets/sources/pokeemerald-expansion-master/graphics/pokemon/ampharos/front.png"
+  },
+  {
+    "archive": "pokeemerald-expansion-master",
+    "sha256": "040DB1FBA3D14A459B2BB3F6672E1D3D40F33D1D64EB29DC5DD2265DC83B2AE6",
+    "entry": "pokeemerald-expansion-master/graphics/pokemon/ampharos/icon.png",
+    "path": "assets/sources/pokeemerald-expansion-master/graphics/pokemon/ampharos/icon.png"
+  },
+  {
+    "archive": "pokeemerald-expansion-master",
+    "sha256": "5C14147871312F35194B6C2F657F026F42A352DC746FABFF67C50AE10D38EBA4",
+    "entry": "pokeemerald-expansion-master/graphics/pokemon/ampharos/normal.pal",
+    "path": "assets/sources/pokeemerald-expansion-master/graphics/pokemon/ampharos/normal.pal"
+  },
+  {
+    "archive": "pokeemerald-expansion-master",
+    "sha256": "7A734920A749004E56A0FBDFDD0A8323DF9D9866192A1B834D9BE77D61CA2E47",
+    "entry": "pokeemerald-expansion-master/graphics/pokemon/aron/back.png",
+    "path": "assets/sources/pokeemerald-expansion-master/graphics/pokemon/aron/back.png"
+  },
+  {
+    "archive": "pokeemerald-expansion-master",
+    "sha256": "D6170ECBEFC1FDE1E9CF2965620EE30BB9FC17B52E0F0882C7EDCB75CD7229A0",
+    "entry": "pokeemerald-expansion-master/graphics/pokemon/aron/front.png",
+    "path": "assets/sources/pokeemerald-expansion-master/graphics/pokemon/aron/front.png"
+  },
+  {
+    "archive": "pokeemerald-expansion-master",
+    "sha256": "60D0B83419F20A2A845CD85E4689393471E8CCD7AC5FF130976287D2A5F2701C",
+    "entry": "pokeemerald-expansion-master/graphics/pokemon/aron/icon.png",
+    "path": "assets/sources/pokeemerald-expansion-master/graphics/pokemon/aron/icon.png"
+  },
+  {
+    "archive": "pokeemerald-expansion-master",
+    "sha256": "9081E389AF8C3335BCD16C544086BEBA9089603A5A585E141A3E9377FE6421D9",
+    "entry": "pokeemerald-expansion-master/graphics/pokemon/aron/normal.pal",
+    "path": "assets/sources/pokeemerald-expansion-master/graphics/pokemon/aron/normal.pal"
+  },
+  {
+    "archive": "pokeemerald-expansion-master",
+    "sha256": "CA79D3A786B7F2C744CCFD0ADA5ABC8112AE80AD2E19AEAFE8A8A665F1086B46",
+    "entry": "pokeemerald-expansion-master/graphics/pokemon/buizel/back.png",
+    "path": "assets/sources/pokeemerald-expansion-master/graphics/pokemon/buizel/back.png"
+  },
+  {
+    "archive": "pokeemerald-expansion-master",
+    "sha256": "ED8FA6CF76EA45213E2D2AF05DAE2845E40C851160076B4CF08A0D32A18FD051",
+    "entry": "pokeemerald-expansion-master/graphics/pokemon/buizel/front.png",
+    "path": "assets/sources/pokeemerald-expansion-master/graphics/pokemon/buizel/front.png"
+  },
+  {
+    "archive": "pokeemerald-expansion-master",
+    "sha256": "91E69E904B7F7247EE2098563F61B0223A4BCBE83F26A97B309CFCD02A0B0F79",
+    "entry": "pokeemerald-expansion-master/graphics/pokemon/buizel/icon.png",
+    "path": "assets/sources/pokeemerald-expansion-master/graphics/pokemon/buizel/icon.png"
+  },
+  {
+    "archive": "pokeemerald-expansion-master",
+    "sha256": "80EE6781A08FABC063DFE89029FD7BBBFF183F4D33C00857FA9FF189C666FB83",
+    "entry": "pokeemerald-expansion-master/graphics/pokemon/buizel/normal.pal",
+    "path": "assets/sources/pokeemerald-expansion-master/graphics/pokemon/buizel/normal.pal"
+  },
+  {
+    "archive": "pokeemerald-expansion-master",
+    "sha256": "6AB715EA850C649B7F05AF28D2245A091AE7E39DE8E04FB2E2FA62468C0C65CA",
+    "entry": "pokeemerald-expansion-master/graphics/pokemon/chandelure/back.png",
+    "path": "assets/sources/pokeemerald-expansion-master/graphics/pokemon/chandelure/back.png"
+  },
+  {
+    "archive": "pokeemerald-expansion-master",
+    "sha256": "CFCE96237094859D3ECEB065178CBC366757EB339EC24B1EAFE0BB1B8BB7E648",
+    "entry": "pokeemerald-expansion-master/graphics/pokemon/chandelure/front.png",
+    "path": "assets/sources/pokeemerald-expansion-master/graphics/pokemon/chandelure/front.png"
+  },
+  {
+    "archive": "pokeemerald-expansion-master",
+    "sha256": "15A065211268A3F3D84A02E5EBE51687AB017AAA03376CBBC6D29DE5A54EE409",
+    "entry": "pokeemerald-expansion-master/graphics/pokemon/chandelure/icon.png",
+    "path": "assets/sources/pokeemerald-expansion-master/graphics/pokemon/chandelure/icon.png"
+  },
+  {
+    "archive": "pokeemerald-expansion-master",
+    "sha256": "881E54FF1BAFD5D94C8AA18A1B6A61EB80A92F3EBC26898B441779D2DDE46A66",
+    "entry": "pokeemerald-expansion-master/graphics/pokemon/chandelure/normal.pal",
+    "path": "assets/sources/pokeemerald-expansion-master/graphics/pokemon/chandelure/normal.pal"
+  },
+  {
+    "archive": "pokeemerald-expansion-master",
+    "sha256": "9915DC7A673160FCB9E01A33F0826696D20D70114EAAD01FE0E4E0AEAC09B691",
+    "entry": "pokeemerald-expansion-master/graphics/pokemon/emolga/back.png",
+    "path": "assets/sources/pokeemerald-expansion-master/graphics/pokemon/emolga/back.png"
+  },
+  {
+    "archive": "pokeemerald-expansion-master",
+    "sha256": "A43363AB1CBE7416F306489F63C096128E4DF3C95AEBAFE527838B22E05E473F",
+    "entry": "pokeemerald-expansion-master/graphics/pokemon/emolga/front.png",
+    "path": "assets/sources/pokeemerald-expansion-master/graphics/pokemon/emolga/front.png"
+  },
+  {
+    "archive": "pokeemerald-expansion-master",
+    "sha256": "5B58432F05C7457BF73262EE267AA453460748C9313E5EB16DC118E7F58D192A",
+    "entry": "pokeemerald-expansion-master/graphics/pokemon/emolga/icon.png",
+    "path": "assets/sources/pokeemerald-expansion-master/graphics/pokemon/emolga/icon.png"
+  },
+  {
+    "archive": "pokeemerald-expansion-master",
+    "sha256": "FD445EA105D59CD8CC70DD3321E292DE7ACE06D52CC9F31782E5275AB87DC8FC",
+    "entry": "pokeemerald-expansion-master/graphics/pokemon/emolga/normal.pal",
+    "path": "assets/sources/pokeemerald-expansion-master/graphics/pokemon/emolga/normal.pal"
+  },
+  {
+    "archive": "pokeemerald-expansion-master",
+    "sha256": "A6B62F7DD0A6842AEFB2F945FCCB8521033751BB9813330B3DBA59DEC9C20EC1",
+    "entry": "pokeemerald-expansion-master/graphics/pokemon/lillipup/back.png",
+    "path": "assets/sources/pokeemerald-expansion-master/graphics/pokemon/lillipup/back.png"
+  },
+  {
+    "archive": "pokeemerald-expansion-master",
+    "sha256": "B659414EED37D3B7E7434AAC70E77F00B21CC48B4C5750C5ED8170D220D337EF",
+    "entry": "pokeemerald-expansion-master/graphics/pokemon/lillipup/front.png",
+    "path": "assets/sources/pokeemerald-expansion-master/graphics/pokemon/lillipup/front.png"
+  },
+  {
+    "archive": "pokeemerald-expansion-master",
+    "sha256": "44A5DA77A1A5360E742C36D08DD1E75D8B66FB617E62ED9B51A39205A8484FF1",
+    "entry": "pokeemerald-expansion-master/graphics/pokemon/lillipup/icon.png",
+    "path": "assets/sources/pokeemerald-expansion-master/graphics/pokemon/lillipup/icon.png"
+  },
+  {
+    "archive": "pokeemerald-expansion-master",
+    "sha256": "CADD225FDBBD4BA72FF0922BF8BF06CC31B4D3AD9815E630A668B3ACA9F69474",
+    "entry": "pokeemerald-expansion-master/graphics/pokemon/lillipup/normal.pal",
+    "path": "assets/sources/pokeemerald-expansion-master/graphics/pokemon/lillipup/normal.pal"
+  },
+  {
+    "archive": "pokeemerald-expansion-master",
+    "sha256": "B98C574C7AFAF8BB4042A30ACFCC29A72690DC804AA68FD477A2827F308A1F3F",
+    "entry": "pokeemerald-expansion-master/graphics/pokemon/litwick/back.png",
+    "path": "assets/sources/pokeemerald-expansion-master/graphics/pokemon/litwick/back.png"
+  },
+  {
+    "archive": "pokeemerald-expansion-master",
+    "sha256": "A69C4B17FF038BD95E3AA24CD627A012A6CAA7AB9FB844D82F777E75ED244B77",
+    "entry": "pokeemerald-expansion-master/graphics/pokemon/litwick/front.png",
+    "path": "assets/sources/pokeemerald-expansion-master/graphics/pokemon/litwick/front.png"
+  },
+  {
+    "archive": "pokeemerald-expansion-master",
+    "sha256": "051903F5148D9A5CDD9B89AD5F5A5C506823D68A754DD82C83840AA2FB5327E6",
+    "entry": "pokeemerald-expansion-master/graphics/pokemon/litwick/icon.png",
+    "path": "assets/sources/pokeemerald-expansion-master/graphics/pokemon/litwick/icon.png"
+  },
+  {
+    "archive": "pokeemerald-expansion-master",
+    "sha256": "AD1C6C1199211182E67F125DA248376247DDDCCF4D0BA3637F17433307904149",
+    "entry": "pokeemerald-expansion-master/graphics/pokemon/litwick/normal.pal",
+    "path": "assets/sources/pokeemerald-expansion-master/graphics/pokemon/litwick/normal.pal"
+  },
+  {
+    "archive": "pokeemerald-expansion-master",
+    "sha256": "CBEE7125C5E0B2792B5FD2A5D30E1832C4D64A803561BD77C3C44352E5502864",
+    "entry": "pokeemerald-expansion-master/graphics/pokemon/minccino/back.png",
+    "path": "assets/sources/pokeemerald-expansion-master/graphics/pokemon/minccino/back.png"
+  },
+  {
+    "archive": "pokeemerald-expansion-master",
+    "sha256": "A5E03806E6ADB1F584B3DA0B1B5EBA9C2E08AAD774CF8443888BE71D16549905",
+    "entry": "pokeemerald-expansion-master/graphics/pokemon/minccino/front.png",
+    "path": "assets/sources/pokeemerald-expansion-master/graphics/pokemon/minccino/front.png"
+  },
+  {
+    "archive": "pokeemerald-expansion-master",
+    "sha256": "6BD722A47DD135138E242196BF35651F064326CB5414E85EC3614778DCCC930D",
+    "entry": "pokeemerald-expansion-master/graphics/pokemon/minccino/icon.png",
+    "path": "assets/sources/pokeemerald-expansion-master/graphics/pokemon/minccino/icon.png"
+  },
+  {
+    "archive": "pokeemerald-expansion-master",
+    "sha256": "EC67471E8C5EF1F1D803864802AD552EF1908F13013A25CFE21B84DECC0440BA",
+    "entry": "pokeemerald-expansion-master/graphics/pokemon/minccino/normal.pal",
+    "path": "assets/sources/pokeemerald-expansion-master/graphics/pokemon/minccino/normal.pal"
+  },
+  {
+    "archive": "pokeemerald-expansion-master",
+    "sha256": "2EC91AF63C416B6BB28B5AF3DE6710E9DEDF5EB96825A50100929702004406C3",
+    "entry": "pokeemerald-expansion-master/graphics/pokemon/quagsire/back.png",
+    "path": "assets/sources/pokeemerald-expansion-master/graphics/pokemon/quagsire/back.png"
+  },
+  {
+    "archive": "pokeemerald-expansion-master",
+    "sha256": "079BBA46BD809BAB3A6BD3EEE7F44AF618C003375B2FB310C2FEA86FD7D11133",
+    "entry": "pokeemerald-expansion-master/graphics/pokemon/quagsire/front.png",
+    "path": "assets/sources/pokeemerald-expansion-master/graphics/pokemon/quagsire/front.png"
+  },
+  {
+    "archive": "pokeemerald-expansion-master",
+    "sha256": "B92EDA549DC38758D2F14135E228382936DFD6F8E20D9188B2E9DD601B58C86B",
+    "entry": "pokeemerald-expansion-master/graphics/pokemon/quagsire/icon.png",
+    "path": "assets/sources/pokeemerald-expansion-master/graphics/pokemon/quagsire/icon.png"
+  },
+  {
+    "archive": "pokeemerald-expansion-master",
+    "sha256": "3BAD443ED0C2492988B027B497828C9F6D2976223AC0D6D2A241C7C432D46A05",
+    "entry": "pokeemerald-expansion-master/graphics/pokemon/quagsire/normal.pal",
+    "path": "assets/sources/pokeemerald-expansion-master/graphics/pokemon/quagsire/normal.pal"
+  },
+  {
+    "archive": "pokeemerald-expansion-master",
+    "sha256": "BA94DBE93AD3CE53DB779E9017E6AF40235028713C925315172F319E505F71F5",
+    "entry": "pokeemerald-expansion-master/graphics/pokemon/ralts/back.png",
+    "path": "assets/sources/pokeemerald-expansion-master/graphics/pokemon/ralts/back.png"
+  },
+  {
+    "archive": "pokeemerald-expansion-master",
+    "sha256": "B4BEBB54D7F1BE7269723C5E9066DF12236E1EC86EBD72A6FCD2B27FBA51041A",
+    "entry": "pokeemerald-expansion-master/graphics/pokemon/ralts/front.png",
+    "path": "assets/sources/pokeemerald-expansion-master/graphics/pokemon/ralts/front.png"
+  },
+  {
+    "archive": "pokeemerald-expansion-master",
+    "sha256": "E8770AFE077F1BC5F5291E97BEAD6D0E8D0E26AB028F9CD1EEB481401D7B09A1",
+    "entry": "pokeemerald-expansion-master/graphics/pokemon/ralts/icon.png",
+    "path": "assets/sources/pokeemerald-expansion-master/graphics/pokemon/ralts/icon.png"
+  },
+  {
+    "archive": "pokeemerald-expansion-master",
+    "sha256": "D27B652944D0D821BF689F624FBFBAE3D73AC1AB07095D6BA4E978D44DE19115",
+    "entry": "pokeemerald-expansion-master/graphics/pokemon/ralts/normal.pal",
+    "path": "assets/sources/pokeemerald-expansion-master/graphics/pokemon/ralts/normal.pal"
+  },
+  {
+    "archive": "pokeemerald-expansion-master",
+    "sha256": "B80F045DC9509601B3AD629BEF2BBC628839DBDE4E1E300B78C3A7C784F4552A",
+    "entry": "pokeemerald-expansion-master/graphics/pokemon/swablu/back.png",
+    "path": "assets/sources/pokeemerald-expansion-master/graphics/pokemon/swablu/back.png"
+  },
+  {
+    "archive": "pokeemerald-expansion-master",
+    "sha256": "A951ED70A414086B6F74AE13B3E1132C6A52E03833D7C31F893441EFBEEFDAF3",
+    "entry": "pokeemerald-expansion-master/graphics/pokemon/swablu/front.png",
+    "path": "assets/sources/pokeemerald-expansion-master/graphics/pokemon/swablu/front.png"
+  },
+  {
+    "archive": "pokeemerald-expansion-master",
+    "sha256": "F482DE1FEF06F00A970768B4B10DA7CC6E4645ECBFB19930DEABA956756F0880",
+    "entry": "pokeemerald-expansion-master/graphics/pokemon/swablu/icon.png",
+    "path": "assets/sources/pokeemerald-expansion-master/graphics/pokemon/swablu/icon.png"
+  },
+  {
+    "archive": "pokeemerald-expansion-master",
+    "sha256": "E115452381C226DD2AD4A390FB4E9E6A92163CD39A18941728252202E0B636E3",
+    "entry": "pokeemerald-expansion-master/graphics/pokemon/swablu/normal.pal",
+    "path": "assets/sources/pokeemerald-expansion-master/graphics/pokemon/swablu/normal.pal"
+  },
+  {
+    "archive": "pokeemerald-expansion-master",
+    "sha256": "2909DC62B6D44BB0F5D0862173B1E0D36DCC88D1290B9B24B6D050E8EE5014F5",
+    "entry": "pokeemerald-expansion-master/graphics/pokemon/timburr/back.png",
+    "path": "assets/sources/pokeemerald-expansion-master/graphics/pokemon/timburr/back.png"
+  },
+  {
+    "archive": "pokeemerald-expansion-master",
+    "sha256": "D3F23197C9454277200EE1A4D9C4173F758B3F5A2255B188FFD4802DD0B65B9A",
+    "entry": "pokeemerald-expansion-master/graphics/pokemon/timburr/front.png",
+    "path": "assets/sources/pokeemerald-expansion-master/graphics/pokemon/timburr/front.png"
+  },
+  {
+    "archive": "pokeemerald-expansion-master",
+    "sha256": "2235BE306DFBB9478B1A84CA29360E18D04CD7A7DDA105EE6A47E14013A9A00F",
+    "entry": "pokeemerald-expansion-master/graphics/pokemon/timburr/icon.png",
+    "path": "assets/sources/pokeemerald-expansion-master/graphics/pokemon/timburr/icon.png"
+  },
+  {
+    "archive": "pokeemerald-expansion-master",
+    "sha256": "1164158A65026F114CDB30E17133897A6073EAF259794529810FE1C5B2EA0F5A",
+    "entry": "pokeemerald-expansion-master/graphics/pokemon/timburr/normal.pal",
+    "path": "assets/sources/pokeemerald-expansion-master/graphics/pokemon/timburr/normal.pal"
+  },
+  {
+    "archive": "pokeemerald-expansion-master",
+    "sha256": "0E6FD185264D5E88AB7DCB39E8DD756DF8FC6C02763F4D5E4145F982E1377588",
+    "entry": "pokeemerald-expansion-master/src/battle_ai_util.c",
+    "path": "assets/sources/pokeemerald-expansion-master/src/battle_ai_util.c"
+  },
+  {
+    "archive": "pokeemerald-expansion-master",
+    "sha256": "B3FB25DFD2A516259818885474667814578BF89B9BB948634EE6AB0A45E6E150",
+    "entry": "pokeemerald-expansion-master/src/data/battle_moves.h",
+    "path": "assets/sources/pokeemerald-expansion-master/src/data/battle_moves.h"
+  },
+  {
+    "archive": "pokeemerald-expansion-master",
+    "sha256": "D94AF5379081C87089B60EC21D8A53B96168C00E3935220658B2C686358497B7",
+    "entry": "pokeemerald-expansion-master/src/data/pokemon/base_stats.h",
+    "path": "assets/sources/pokeemerald-expansion-master/src/data/pokemon/base_stats.h"
+  },
+  {
+    "archive": "Complete-Fire-Red-Upgrade-master",
+    "sha256": "BC6221523AEFD8855B29535A79458936891E5510F377654AFD10F150E0749F41",
+    "entry": "Complete-Fire-Red-Upgrade-master/README.md",
+    "path": "assets/sources/Complete-Fire-Red-Upgrade-master/README.md"
+  },
+  {
+    "archive": "Complete-Fire-Red-Upgrade-master",
+    "sha256": "4C17BF53F2EB1902C23B934D6C6B7A5AAFD77401647CFA86E0355F72B6EB212E",
+    "entry": "Complete-Fire-Red-Upgrade-master/include/constants/battle.h",
+    "path": "assets/sources/Complete-Fire-Red-Upgrade-master/include/constants/battle.h"
+  },
+  {
+    "archive": "Complete-Fire-Red-Upgrade-master",
+    "sha256": "78537004B30BFD30B34FC0C4891244ADFA62020D2090418F1E637F7E2A924181",
+    "entry": "Complete-Fire-Red-Upgrade-master/src/Battle_AI/ai_advanced.c",
+    "path": "assets/sources/Complete-Fire-Red-Upgrade-master/src/Battle_AI/ai_advanced.c"
+  },
+  {
+    "archive": "Complete-Fire-Red-Upgrade-master",
+    "sha256": "5906E30CEFF01C657673A61C09448F938737F7DF5FE35E50D8C52703ADA41315",
+    "entry": "Complete-Fire-Red-Upgrade-master/src/Battle_AI/ai_master.c",
+    "path": "assets/sources/Complete-Fire-Red-Upgrade-master/src/Battle_AI/ai_master.c"
+  },
+  {
+    "archive": "Complete-Fire-Red-Upgrade-master",
+    "sha256": "BC1B563E24FCCF9ED9FB926202FF21BD9DE959CE627D788539EAB1A83EF4FC75",
+    "entry": "Complete-Fire-Red-Upgrade-master/src/Battle_AI/ai_negatives.c",
+    "path": "assets/sources/Complete-Fire-Red-Upgrade-master/src/Battle_AI/ai_negatives.c"
+  },
+  {
+    "archive": "Complete-Fire-Red-Upgrade-master",
+    "sha256": "76418029D198C6C354A8A722A0E7BD3A5CAE5B68AFEF99916220274B20178079",
+    "entry": "Complete-Fire-Red-Upgrade-master/src/Battle_AI/ai_partner.c",
+    "path": "assets/sources/Complete-Fire-Red-Upgrade-master/src/Battle_AI/ai_partner.c"
+  },
+  {
+    "archive": "Complete-Fire-Red-Upgrade-master",
+    "sha256": "2688EF31E5641E8CE371583808860DD7820945EA8C28B83F12BE2294109D2690",
+    "entry": "Complete-Fire-Red-Upgrade-master/src/Battle_AI/ai_positives.c",
+    "path": "assets/sources/Complete-Fire-Red-Upgrade-master/src/Battle_AI/ai_positives.c"
+  },
+  {
+    "archive": "Complete-Fire-Red-Upgrade-master",
+    "sha256": "9A7862CC533546F2887837D808A23E823CA66BF808B82FBA2970020A5AAD76C5",
+    "entry": "Complete-Fire-Red-Upgrade-master/src/Battle_AI/ai_switching.c",
+    "path": "assets/sources/Complete-Fire-Red-Upgrade-master/src/Battle_AI/ai_switching.c"
+  },
+  {
+    "archive": "Complete-Fire-Red-Upgrade-master",
+    "sha256": "6998F5B1F432F1FEAFC10345C6BFD88B9D43D82271DE1B00FBD91C0EEA759B57",
+    "entry": "Complete-Fire-Red-Upgrade-master/src/Battle_AI/ai_util.c",
+    "path": "assets/sources/Complete-Fire-Red-Upgrade-master/src/Battle_AI/ai_util.c"
+  },
+  {
+    "archive": "Complete-Fire-Red-Upgrade-master",
+    "sha256": "D64DE8BBC0D5254D51E15FB18C36669EABAAA8655BBD0A7FF56D3856D3F0A704",
+    "entry": "Complete-Fire-Red-Upgrade-master/src/config.h",
+    "path": "assets/sources/Complete-Fire-Red-Upgrade-master/src/config.h"
+  }
+]

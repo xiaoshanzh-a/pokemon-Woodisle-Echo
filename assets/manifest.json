@@ -1,0 +1,1658 @@
+[
+  {
+    "asset": "bulbasaur-front.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\bulbasaur\\front.png",
+    "size": [
+      64,
+      64
+    ]
+  },
+  {
+    "asset": "bulbasaur-back.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\bulbasaur\\back.png",
+    "size": [
+      64,
+      64
+    ]
+  },
+  {
+    "asset": "ivysaur-front.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\ivysaur\\front.png",
+    "size": [
+      64,
+      64
+    ]
+  },
+  {
+    "asset": "ivysaur-back.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\ivysaur\\back.png",
+    "size": [
+      64,
+      64
+    ]
+  },
+  {
+    "asset": "venusaur-front.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\venusaur\\front.png",
+    "size": [
+      64,
+      64
+    ]
+  },
+  {
+    "asset": "venusaur-back.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\venusaur\\back.png",
+    "size": [
+      64,
+      64
+    ]
+  },
+  {
+    "asset": "charmander-front.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\charmander\\front.png",
+    "size": [
+      64,
+      64
+    ]
+  },
+  {
+    "asset": "charmander-back.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\charmander\\back.png",
+    "size": [
+      64,
+      64
+    ]
+  },
+  {
+    "asset": "charmeleon-front.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\charmeleon\\front.png",
+    "size": [
+      64,
+      64
+    ]
+  },
+  {
+    "asset": "charmeleon-back.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\charmeleon\\back.png",
+    "size": [
+      64,
+      64
+    ]
+  },
+  {
+    "asset": "charizard-front.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\charizard\\front.png",
+    "size": [
+      64,
+      64
+    ]
+  },
+  {
+    "asset": "charizard-back.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\charizard\\back.png",
+    "size": [
+      64,
+      64
+    ]
+  },
+  {
+    "asset": "squirtle-front.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\squirtle\\front.png",
+    "size": [
+      64,
+      64
+    ]
+  },
+  {
+    "asset": "squirtle-back.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\squirtle\\back.png",
+    "size": [
+      64,
+      64
+    ]
+  },
+  {
+    "asset": "wartortle-front.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\wartortle\\front.png",
+    "size": [
+      64,
+      64
+    ]
+  },
+  {
+    "asset": "wartortle-back.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\wartortle\\back.png",
+    "size": [
+      64,
+      64
+    ]
+  },
+  {
+    "asset": "blastoise-front.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\blastoise\\front.png",
+    "size": [
+      64,
+      64
+    ]
+  },
+  {
+    "asset": "blastoise-back.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\blastoise\\back.png",
+    "size": [
+      64,
+      64
+    ]
+  },
+  {
+    "asset": "pikachu-front.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\pikachu\\front.png",
+    "size": [
+      64,
+      64
+    ]
+  },
+  {
+    "asset": "pikachu-back.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\pikachu\\back.png",
+    "size": [
+      64,
+      64
+    ]
+  },
+  {
+    "asset": "raichu-front.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\raichu\\front.png",
+    "size": [
+      64,
+      64
+    ]
+  },
+  {
+    "asset": "raichu-back.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\raichu\\back.png",
+    "size": [
+      64,
+      64
+    ]
+  },
+  {
+    "asset": "eevee-front.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\eevee\\front.png",
+    "size": [
+      64,
+      64
+    ]
+  },
+  {
+    "asset": "eevee-back.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\eevee\\back.png",
+    "size": [
+      64,
+      64
+    ]
+  },
+  {
+    "asset": "vaporeon-front.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\vaporeon\\front.png",
+    "size": [
+      64,
+      64
+    ]
+  },
+  {
+    "asset": "vaporeon-back.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\vaporeon\\back.png",
+    "size": [
+      64,
+      64
+    ]
+  },
+  {
+    "asset": "jolteon-front.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\jolteon\\front.png",
+    "size": [
+      64,
+      64
+    ]
+  },
+  {
+    "asset": "jolteon-back.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\jolteon\\back.png",
+    "size": [
+      64,
+      64
+    ]
+  },
+  {
+    "asset": "flareon-front.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\flareon\\front.png",
+    "size": [
+      64,
+      64
+    ]
+  },
+  {
+    "asset": "flareon-back.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\flareon\\back.png",
+    "size": [
+      64,
+      64
+    ]
+  },
+  {
+    "asset": "pidgey-front.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\pidgey\\front.png",
+    "size": [
+      64,
+      64
+    ]
+  },
+  {
+    "asset": "pidgey-back.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\pidgey\\back.png",
+    "size": [
+      64,
+      64
+    ]
+  },
+  {
+    "asset": "rattata-front.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\rattata\\front.png",
+    "size": [
+      64,
+      64
+    ]
+  },
+  {
+    "asset": "rattata-back.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\rattata\\back.png",
+    "size": [
+      64,
+      64
+    ]
+  },
+  {
+    "asset": "caterpie-front.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\caterpie\\front.png",
+    "size": [
+      64,
+      64
+    ]
+  },
+  {
+    "asset": "caterpie-back.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\caterpie\\back.png",
+    "size": [
+      64,
+      64
+    ]
+  },
+  {
+    "asset": "weedle-front.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\weedle\\front.png",
+    "size": [
+      64,
+      64
+    ]
+  },
+  {
+    "asset": "weedle-back.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\weedle\\back.png",
+    "size": [
+      64,
+      64
+    ]
+  },
+  {
+    "asset": "nidoran_f-front.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\nidoran_f\\front.png",
+    "size": [
+      64,
+      64
+    ]
+  },
+  {
+    "asset": "nidoran_f-back.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\nidoran_f\\back.png",
+    "size": [
+      64,
+      64
+    ]
+  },
+  {
+    "asset": "nidoran_m-front.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\nidoran_m\\front.png",
+    "size": [
+      64,
+      64
+    ]
+  },
+  {
+    "asset": "nidoran_m-back.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\nidoran_m\\back.png",
+    "size": [
+      64,
+      64
+    ]
+  },
+  {
+    "asset": "clefairy-front.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\clefairy\\front.png",
+    "size": [
+      64,
+      64
+    ]
+  },
+  {
+    "asset": "clefairy-back.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\clefairy\\back.png",
+    "size": [
+      64,
+      64
+    ]
+  },
+  {
+    "asset": "vulpix-front.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\vulpix\\front.png",
+    "size": [
+      64,
+      64
+    ]
+  },
+  {
+    "asset": "vulpix-back.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\vulpix\\back.png",
+    "size": [
+      64,
+      64
+    ]
+  },
+  {
+    "asset": "psyduck-front.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\psyduck\\front.png",
+    "size": [
+      64,
+      64
+    ]
+  },
+  {
+    "asset": "psyduck-back.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\psyduck\\back.png",
+    "size": [
+      64,
+      64
+    ]
+  },
+  {
+    "asset": "growlithe-front.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\growlithe\\front.png",
+    "size": [
+      64,
+      64
+    ]
+  },
+  {
+    "asset": "growlithe-back.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\growlithe\\back.png",
+    "size": [
+      64,
+      64
+    ]
+  },
+  {
+    "asset": "abra-front.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\abra\\front.png",
+    "size": [
+      64,
+      64
+    ]
+  },
+  {
+    "asset": "abra-back.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\abra\\back.png",
+    "size": [
+      64,
+      64
+    ]
+  },
+  {
+    "asset": "gastly-front.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\gastly\\front.png",
+    "size": [
+      64,
+      64
+    ]
+  },
+  {
+    "asset": "gastly-back.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\gastly\\back.png",
+    "size": [
+      64,
+      64
+    ]
+  },
+  {
+    "asset": "onix-front.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\onix\\front.png",
+    "size": [
+      64,
+      64
+    ]
+  },
+  {
+    "asset": "onix-back.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\onix\\back.png",
+    "size": [
+      64,
+      64
+    ]
+  },
+  {
+    "asset": "dratini-front.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\dratini\\front.png",
+    "size": [
+      64,
+      64
+    ]
+  },
+  {
+    "asset": "dratini-back.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\dratini\\back.png",
+    "size": [
+      64,
+      64
+    ]
+  },
+  {
+    "asset": "snorlax-front.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\snorlax\\front.png",
+    "size": [
+      64,
+      64
+    ]
+  },
+  {
+    "asset": "snorlax-back.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\snorlax\\back.png",
+    "size": [
+      64,
+      64
+    ]
+  },
+  {
+    "asset": "lapras-front.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\lapras\\front.png",
+    "size": [
+      64,
+      64
+    ]
+  },
+  {
+    "asset": "lapras-back.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\lapras\\back.png",
+    "size": [
+      64,
+      64
+    ]
+  },
+  {
+    "asset": "magikarp-front.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\magikarp\\front.png",
+    "size": [
+      64,
+      64
+    ]
+  },
+  {
+    "asset": "magikarp-back.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\magikarp\\back.png",
+    "size": [
+      64,
+      64
+    ]
+  },
+  {
+    "asset": "gyarados-front.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\gyarados\\front.png",
+    "size": [
+      64,
+      64
+    ]
+  },
+  {
+    "asset": "gyarados-back.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\gyarados\\back.png",
+    "size": [
+      64,
+      64
+    ]
+  },
+  {
+    "asset": "scyther-front.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\scyther\\front.png",
+    "size": [
+      64,
+      64
+    ]
+  },
+  {
+    "asset": "scyther-back.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\scyther\\back.png",
+    "size": [
+      64,
+      64
+    ]
+  },
+  {
+    "asset": "chansey-front.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\chansey\\front.png",
+    "size": [
+      64,
+      64
+    ]
+  },
+  {
+    "asset": "chansey-back.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\chansey\\back.png",
+    "size": [
+      64,
+      64
+    ]
+  },
+  {
+    "asset": "kangaskhan-front.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\kangaskhan\\front.png",
+    "size": [
+      64,
+      64
+    ]
+  },
+  {
+    "asset": "kangaskhan-back.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\kangaskhan\\back.png",
+    "size": [
+      64,
+      64
+    ]
+  },
+  {
+    "asset": "tauros-front.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\tauros\\front.png",
+    "size": [
+      64,
+      64
+    ]
+  },
+  {
+    "asset": "tauros-back.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\tauros\\back.png",
+    "size": [
+      64,
+      64
+    ]
+  },
+  {
+    "asset": "mew-front.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\mew\\front.png",
+    "size": [
+      64,
+      64
+    ]
+  },
+  {
+    "asset": "mew-back.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\mew\\back.png",
+    "size": [
+      64,
+      64
+    ]
+  },
+  {
+    "asset": "mewtwo-front.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\mewtwo\\front.png",
+    "size": [
+      64,
+      64
+    ]
+  },
+  {
+    "asset": "mewtwo-back.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\mewtwo\\back.png",
+    "size": [
+      64,
+      64
+    ]
+  },
+  {
+    "asset": "articuno-front.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\articuno\\front.png",
+    "size": [
+      64,
+      64
+    ]
+  },
+  {
+    "asset": "articuno-back.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\articuno\\back.png",
+    "size": [
+      64,
+      64
+    ]
+  },
+  {
+    "asset": "zapdos-front.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\zapdos\\front.png",
+    "size": [
+      64,
+      64
+    ]
+  },
+  {
+    "asset": "zapdos-back.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\zapdos\\back.png",
+    "size": [
+      64,
+      64
+    ]
+  },
+  {
+    "asset": "moltres-front.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\moltres\\front.png",
+    "size": [
+      64,
+      64
+    ]
+  },
+  {
+    "asset": "moltres-back.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\moltres\\back.png",
+    "size": [
+      64,
+      64
+    ]
+  },
+  {
+    "asset": "red_normal.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\object_events\\pics\\people\\red_normal.png",
+    "size": [
+      144,
+      32
+    ]
+  },
+  {
+    "asset": "prof_oak.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\object_events\\pics\\people\\prof_oak.png",
+    "size": [
+      144,
+      32
+    ]
+  },
+  {
+    "asset": "woman_1.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\object_events\\pics\\people\\woman_1.png",
+    "size": [
+      160,
+      32
+    ]
+  },
+  {
+    "asset": "youngster.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\object_events\\pics\\people\\youngster.png",
+    "size": [
+      160,
+      32
+    ]
+  },
+  {
+    "asset": "fisher.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\object_events\\pics\\people\\fisher.png",
+    "size": [
+      160,
+      32
+    ]
+  },
+  {
+    "asset": "npc-mom.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\object_events\\pics\\people\\mom.png",
+    "size": [
+      16,
+      32
+    ]
+  },
+  {
+    "asset": "npc-little_girl.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\object_events\\pics\\people\\little_girl.png",
+    "size": [
+      16,
+      32
+    ]
+  },
+  {
+    "asset": "npc-little_boy.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\object_events\\pics\\people\\little_boy.png",
+    "size": [
+      16,
+      32
+    ]
+  },
+  {
+    "asset": "npc-boy.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\object_events\\pics\\people\\boy.png",
+    "size": [
+      16,
+      32
+    ]
+  },
+  {
+    "asset": "npc-man.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\object_events\\pics\\people\\man.png",
+    "size": [
+      16,
+      32
+    ]
+  },
+  {
+    "asset": "npc-woman_1.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\object_events\\pics\\people\\woman_1.png",
+    "size": [
+      16,
+      32
+    ]
+  },
+  {
+    "asset": "npc-woman_2.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\object_events\\pics\\people\\woman_2.png",
+    "size": [
+      16,
+      32
+    ]
+  },
+  {
+    "asset": "npc-woman_3.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\object_events\\pics\\people\\woman_3.png",
+    "size": [
+      16,
+      32
+    ]
+  },
+  {
+    "asset": "npc-fat_man.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\object_events\\pics\\people\\fat_man.png",
+    "size": [
+      16,
+      32
+    ]
+  },
+  {
+    "asset": "npc-old_man_1.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\object_events\\pics\\people\\old_man_1.png",
+    "size": [
+      16,
+      32
+    ]
+  },
+  {
+    "asset": "npc-old_woman.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\object_events\\pics\\people\\old_woman.png",
+    "size": [
+      16,
+      32
+    ]
+  },
+  {
+    "asset": "npc-daisy.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\object_events\\pics\\people\\daisy.png",
+    "size": [
+      16,
+      32
+    ]
+  },
+  {
+    "asset": "npc-youngster.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\object_events\\pics\\people\\youngster.png",
+    "size": [
+      16,
+      32
+    ]
+  },
+  {
+    "asset": "npc-lass.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\object_events\\pics\\people\\lass.png",
+    "size": [
+      16,
+      32
+    ]
+  },
+  {
+    "asset": "npc-bug_catcher.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\object_events\\pics\\people\\bug_catcher.png",
+    "size": [
+      16,
+      32
+    ]
+  },
+  {
+    "asset": "npc-hiker.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\object_events\\pics\\people\\hiker.png",
+    "size": [
+      16,
+      32
+    ]
+  },
+  {
+    "asset": "npc-black_belt.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\object_events\\pics\\people\\black_belt.png",
+    "size": [
+      16,
+      32
+    ]
+  },
+  {
+    "asset": "npc-cooltrainer_m.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\object_events\\pics\\people\\cooltrainer_m.png",
+    "size": [
+      16,
+      32
+    ]
+  },
+  {
+    "asset": "npc-cooltrainer_f.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\object_events\\pics\\people\\cooltrainer_f.png",
+    "size": [
+      16,
+      32
+    ]
+  },
+  {
+    "asset": "npc-picnicker.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\object_events\\pics\\people\\picnicker.png",
+    "size": [
+      16,
+      32
+    ]
+  },
+  {
+    "asset": "npc-beauty.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\object_events\\pics\\people\\beauty.png",
+    "size": [
+      16,
+      32
+    ]
+  },
+  {
+    "asset": "npc-rich_boy.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\object_events\\pics\\people\\rich_boy.png",
+    "size": [
+      16,
+      32
+    ]
+  },
+  {
+    "asset": "npc-gentleman.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\object_events\\pics\\people\\gentleman.png",
+    "size": [
+      16,
+      32
+    ]
+  },
+  {
+    "asset": "npc-sailor.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\object_events\\pics\\people\\sailor.png",
+    "size": [
+      16,
+      32
+    ]
+  },
+  {
+    "asset": "npc-swimmer_m_land.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\object_events\\pics\\people\\swimmer_m_land.png",
+    "size": [
+      16,
+      32
+    ]
+  },
+  {
+    "asset": "npc-swimmer_f_land.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\object_events\\pics\\people\\swimmer_f_land.png",
+    "size": [
+      16,
+      32
+    ]
+  },
+  {
+    "asset": "npc-tuber_m_land.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\object_events\\pics\\people\\tuber_m_land.png",
+    "size": [
+      16,
+      32
+    ]
+  },
+  {
+    "asset": "npc-tuber_f.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\object_events\\pics\\people\\tuber_f.png",
+    "size": [
+      16,
+      32
+    ]
+  },
+  {
+    "asset": "npc-scientist.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\object_events\\pics\\people\\scientist.png",
+    "size": [
+      16,
+      32
+    ]
+  },
+  {
+    "asset": "npc-rocker.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\object_events\\pics\\people\\rocker.png",
+    "size": [
+      16,
+      32
+    ]
+  },
+  {
+    "asset": "npc-rocket_m.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\object_events\\pics\\people\\rocket_m.png",
+    "size": [
+      16,
+      32
+    ]
+  },
+  {
+    "asset": "npc-rocket_f.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\object_events\\pics\\people\\rocket_f.png",
+    "size": [
+      16,
+      32
+    ]
+  },
+  {
+    "asset": "npc-policeman.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\object_events\\pics\\people\\policeman.png",
+    "size": [
+      16,
+      32
+    ]
+  },
+  {
+    "asset": "npc-worker_m.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\object_events\\pics\\people\\worker_m.png",
+    "size": [
+      16,
+      32
+    ]
+  },
+  {
+    "asset": "npc-worker_f.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\object_events\\pics\\people\\worker_f.png",
+    "size": [
+      16,
+      32
+    ]
+  },
+  {
+    "asset": "npc-nurse.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\object_events\\pics\\people\\nurse.png",
+    "size": [
+      16,
+      32
+    ]
+  },
+  {
+    "asset": "npc-clerk.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\object_events\\pics\\people\\clerk.png",
+    "size": [
+      16,
+      32
+    ]
+  },
+  {
+    "asset": "npc-fisher.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\object_events\\pics\\people\\fisher.png",
+    "size": [
+      16,
+      32
+    ]
+  },
+  {
+    "asset": "npc-gym_guy.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\object_events\\pics\\people\\gym_guy.png",
+    "size": [
+      16,
+      32
+    ]
+  },
+  {
+    "asset": "npc-brock.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\object_events\\pics\\people\\brock.png",
+    "size": [
+      16,
+      32
+    ]
+  },
+  {
+    "asset": "npc-misty.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\object_events\\pics\\people\\misty.png",
+    "size": [
+      16,
+      32
+    ]
+  },
+  {
+    "asset": "npc-erika.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\object_events\\pics\\people\\erika.png",
+    "size": [
+      16,
+      32
+    ]
+  },
+  {
+    "asset": "npc-lt_surge.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\object_events\\pics\\people\\lt_surge.png",
+    "size": [
+      16,
+      32
+    ]
+  },
+  {
+    "asset": "npc-koga.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\object_events\\pics\\people\\koga.png",
+    "size": [
+      16,
+      32
+    ]
+  },
+  {
+    "asset": "npc-sabrina.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\object_events\\pics\\people\\sabrina.png",
+    "size": [
+      16,
+      32
+    ]
+  },
+  {
+    "asset": "npc-blaine.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\object_events\\pics\\people\\blaine.png",
+    "size": [
+      16,
+      32
+    ]
+  },
+  {
+    "asset": "npc-giovanni.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\object_events\\pics\\people\\giovanni.png",
+    "size": [
+      16,
+      32
+    ]
+  },
+  {
+    "asset": "npc-lorelei.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\object_events\\pics\\people\\lorelei.png",
+    "size": [
+      16,
+      32
+    ]
+  },
+  {
+    "asset": "npc-bruno.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\object_events\\pics\\people\\bruno.png",
+    "size": [
+      16,
+      32
+    ]
+  },
+  {
+    "asset": "npc-agatha.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\object_events\\pics\\people\\agatha.png",
+    "size": [
+      16,
+      32
+    ]
+  },
+  {
+    "asset": "npc-lance.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\object_events\\pics\\people\\lance.png",
+    "size": [
+      16,
+      32
+    ]
+  },
+  {
+    "asset": "npc-blue.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\object_events\\pics\\people\\blue.png",
+    "size": [
+      16,
+      32
+    ]
+  },
+  {
+    "asset": "npc-bill.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\object_events\\pics\\people\\bill.png",
+    "size": [
+      16,
+      32
+    ]
+  },
+  {
+    "asset": "npc-mr_fuji.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\object_events\\pics\\people\\mr_fuji.png",
+    "size": [
+      16,
+      32
+    ]
+  },
+  {
+    "asset": "npc-celio.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\object_events\\pics\\people\\celio.png",
+    "size": [
+      16,
+      32
+    ]
+  },
+  {
+    "asset": "tree.png",
+    "source": "C:\\Users\\Sheng\\Documents\\ChatGPT\\宝可梦游戏复刻\\assets\\fire_red\\vegetation\\pallet_oak_tree.png",
+    "size": [
+      419,
+      512
+    ]
+  },
+  {
+    "asset": "tree2.png",
+    "source": "C:\\Users\\Sheng\\Documents\\ChatGPT\\宝可梦游戏复刻\\assets\\fire_red\\vegetation\\viridian_forest_tree.png",
+    "size": [
+      478,
+      512
+    ]
+  },
+  {
+    "asset": "flowers.png",
+    "source": "C:\\Users\\Sheng\\Documents\\ChatGPT\\宝可梦游戏复刻\\assets\\fire_red\\vegetation\\pallet_wildflower_patch.png",
+    "size": [
+      512,
+      218
+    ]
+  },
+  {
+    "asset": "grass.png",
+    "source": "C:\\Users\\Sheng\\Documents\\ChatGPT\\宝可梦游戏复刻\\assets\\fire_red\\vegetation\\route1_grass_tuft.png",
+    "size": [
+      512,
+      447
+    ]
+  },
+  {
+    "asset": "bush.png",
+    "source": "C:\\Users\\Sheng\\Documents\\ChatGPT\\宝可梦游戏复刻\\assets\\fire_red\\vegetation\\viridian_shrub_cluster.png",
+    "size": [
+      512,
+      333
+    ]
+  },
+  {
+    "asset": "professor.png",
+    "source": "C:\\Users\\Sheng\\Documents\\ChatGPT\\宝可梦游戏复刻\\assets\\fire_red\\npcs\\pallet_elder_researcher.png",
+    "size": [
+      287,
+      512
+    ]
+  },
+  {
+    "asset": "woman.png",
+    "source": "C:\\Users\\Sheng\\Documents\\ChatGPT\\宝可梦游戏复刻\\assets\\fire_red\\npcs\\pallet_woman.png",
+    "size": [
+      270,
+      512
+    ]
+  },
+  {
+    "asset": "house.png",
+    "source": "C:\\Users\\Sheng\\Documents\\ChatGPT\\宝可梦游戏复刻\\assets\\fire_red\\architecture\\towns\\pallet_players_house.png",
+    "size": [
+      512,
+      367
+    ]
+  },
+  {
+    "asset": "house2.png",
+    "source": "C:\\Users\\Sheng\\Documents\\ChatGPT\\宝可梦游戏复刻\\assets\\fire_red\\architecture\\towns\\blue_roof_small_house.png",
+    "size": [
+      512,
+      348
+    ]
+  },
+  {
+    "asset": "center.png",
+    "source": "C:\\Users\\Sheng\\Documents\\ChatGPT\\宝可梦游戏复刻\\assets\\fire_red\\architecture\\facilities\\pokemon_center.png",
+    "size": [
+      512,
+      303
+    ]
+  },
+  {
+    "asset": "lab.png",
+    "source": "C:\\Users\\Sheng\\Documents\\ChatGPT\\宝可梦游戏复刻\\assets\\fire_red\\architecture\\facilities\\research_lab.png",
+    "size": [
+      512,
+      342
+    ]
+  },
+  {
+    "asset": "arcade.png",
+    "source": "C:\\Users\\Sheng\\Documents\\ChatGPT\\宝可梦游戏复刻\\assets\\fire_red\\architecture\\facilities\\game_corner.png",
+    "size": [
+      512,
+      317
+    ]
+  },
+  {
+    "asset": "safari.png",
+    "source": "C:\\Users\\Sheng\\Documents\\ChatGPT\\宝可梦游戏复刻\\assets\\fire_red\\architecture\\facilities\\fuchsia_safari_gatehouse.png",
+    "size": [
+      512,
+      320
+    ]
+  },
+  {
+    "asset": "room-bed.png",
+    "source": "C:\\Users\\Sheng\\Documents\\ChatGPT\\宝可梦游戏复刻\\assets\\fire_red\\interiors\\celadon_hotel_bed.png",
+    "size": [
+      512,
+      468
+    ]
+  },
+  {
+    "asset": "room-shelf.png",
+    "source": "C:\\Users\\Sheng\\Documents\\ChatGPT\\宝可梦游戏复刻\\assets\\fire_red\\interiors\\celadon_department_store_display_shelf.png",
+    "size": [
+      376,
+      512
+    ]
+  },
+  {
+    "asset": "room-healer.png",
+    "source": "C:\\Users\\Sheng\\Documents\\ChatGPT\\宝可梦游戏复刻\\assets\\fire_red\\interiors\\vermilion_center_healing_terminal.png",
+    "size": [
+      507,
+      512
+    ]
+  },
+  {
+    "asset": "room-pc.png",
+    "source": "C:\\Users\\Sheng\\Documents\\ChatGPT\\宝可梦游戏复刻\\assets\\fire_red\\interiors\\cinnabar_lab_computer.png",
+    "size": [
+      512,
+      386
+    ]
+  },
+  {
+    "asset": "room-sofa.png",
+    "source": "C:\\Users\\Sheng\\Documents\\ChatGPT\\宝可梦游戏复刻\\assets\\fire_red\\interiors\\cinnabar_lab_lounge_sofa.png",
+    "size": [
+      512,
+      293
+    ]
+  },
+  {
+    "asset": "room-arcade.png",
+    "source": "C:\\Users\\Sheng\\Documents\\ChatGPT\\宝可梦游戏复刻\\assets\\fire_red\\props\\two_island_arcade_machine.png",
+    "size": [
+      512,
+      344
+    ]
+  },
+  {
+    "asset": "bulbasaur-walk.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\bulbasaur\\icon.png",
+    "size": [
+      32,
+      64
+    ]
+  },
+  {
+    "asset": "ivysaur-walk.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\ivysaur\\icon.png",
+    "size": [
+      32,
+      64
+    ]
+  },
+  {
+    "asset": "venusaur-walk.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\venusaur\\icon.png",
+    "size": [
+      32,
+      64
+    ]
+  },
+  {
+    "asset": "charmander-walk.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\charmander\\icon.png",
+    "size": [
+      32,
+      64
+    ]
+  },
+  {
+    "asset": "charmeleon-walk.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\charmeleon\\icon.png",
+    "size": [
+      32,
+      64
+    ]
+  },
+  {
+    "asset": "charizard-walk.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\charizard\\icon.png",
+    "size": [
+      32,
+      64
+    ]
+  },
+  {
+    "asset": "squirtle-walk.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\squirtle\\icon.png",
+    "size": [
+      32,
+      64
+    ]
+  },
+  {
+    "asset": "wartortle-walk.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\wartortle\\icon.png",
+    "size": [
+      32,
+      64
+    ]
+  },
+  {
+    "asset": "blastoise-walk.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\blastoise\\icon.png",
+    "size": [
+      32,
+      64
+    ]
+  },
+  {
+    "asset": "pikachu-walk.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\pikachu\\icon.png",
+    "size": [
+      32,
+      64
+    ]
+  },
+  {
+    "asset": "raichu-walk.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\raichu\\icon.png",
+    "size": [
+      32,
+      64
+    ]
+  },
+  {
+    "asset": "eevee-walk.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\eevee\\icon.png",
+    "size": [
+      32,
+      64
+    ]
+  },
+  {
+    "asset": "vaporeon-walk.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\vaporeon\\icon.png",
+    "size": [
+      32,
+      64
+    ]
+  },
+  {
+    "asset": "jolteon-walk.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\jolteon\\icon.png",
+    "size": [
+      32,
+      64
+    ]
+  },
+  {
+    "asset": "flareon-walk.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\flareon\\icon.png",
+    "size": [
+      32,
+      64
+    ]
+  },
+  {
+    "asset": "pidgey-walk.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\pidgey\\icon.png",
+    "size": [
+      32,
+      64
+    ]
+  },
+  {
+    "asset": "rattata-walk.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\rattata\\icon.png",
+    "size": [
+      32,
+      64
+    ]
+  },
+  {
+    "asset": "caterpie-walk.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\caterpie\\icon.png",
+    "size": [
+      32,
+      64
+    ]
+  },
+  {
+    "asset": "weedle-walk.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\weedle\\icon.png",
+    "size": [
+      32,
+      64
+    ]
+  },
+  {
+    "asset": "nidoran_f-walk.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\nidoran_f\\icon.png",
+    "size": [
+      32,
+      64
+    ]
+  },
+  {
+    "asset": "nidoran_m-walk.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\nidoran_m\\icon.png",
+    "size": [
+      32,
+      64
+    ]
+  },
+  {
+    "asset": "clefairy-walk.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\clefairy\\icon.png",
+    "size": [
+      32,
+      64
+    ]
+  },
+  {
+    "asset": "vulpix-walk.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\vulpix\\icon.png",
+    "size": [
+      32,
+      64
+    ]
+  },
+  {
+    "asset": "psyduck-walk.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\psyduck\\icon.png",
+    "size": [
+      32,
+      64
+    ]
+  },
+  {
+    "asset": "growlithe-walk.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\growlithe\\icon.png",
+    "size": [
+      32,
+      64
+    ]
+  },
+  {
+    "asset": "abra-walk.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\abra\\icon.png",
+    "size": [
+      32,
+      64
+    ]
+  },
+  {
+    "asset": "gastly-walk.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\gastly\\icon.png",
+    "size": [
+      32,
+      64
+    ]
+  },
+  {
+    "asset": "onix-walk.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\onix\\icon.png",
+    "size": [
+      32,
+      64
+    ]
+  },
+  {
+    "asset": "dratini-walk.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\dratini\\icon.png",
+    "size": [
+      32,
+      64
+    ]
+  },
+  {
+    "asset": "snorlax-walk.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\snorlax\\icon.png",
+    "size": [
+      32,
+      64
+    ]
+  },
+  {
+    "asset": "lapras-walk.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\lapras\\icon.png",
+    "size": [
+      32,
+      64
+    ]
+  },
+  {
+    "asset": "magikarp-walk.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\magikarp\\icon.png",
+    "size": [
+      32,
+      64
+    ]
+  },
+  {
+    "asset": "gyarados-walk.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\gyarados\\icon.png",
+    "size": [
+      32,
+      64
+    ]
+  },
+  {
+    "asset": "scyther-walk.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\scyther\\icon.png",
+    "size": [
+      32,
+      64
+    ]
+  },
+  {
+    "asset": "chansey-walk.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\chansey\\icon.png",
+    "size": [
+      32,
+      64
+    ]
+  },
+  {
+    "asset": "kangaskhan-walk.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\kangaskhan\\icon.png",
+    "size": [
+      32,
+      64
+    ]
+  },
+  {
+    "asset": "tauros-walk.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\tauros\\icon.png",
+    "size": [
+      32,
+      64
+    ]
+  },
+  {
+    "asset": "mew-walk.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\mew\\icon.png",
+    "size": [
+      32,
+      64
+    ]
+  },
+  {
+    "asset": "mewtwo-walk.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\mewtwo\\icon.png",
+    "size": [
+      32,
+      64
+    ]
+  },
+  {
+    "asset": "articuno-walk.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\articuno\\icon.png",
+    "size": [
+      32,
+      64
+    ]
+  },
+  {
+    "asset": "zapdos-walk.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\zapdos\\icon.png",
+    "size": [
+      32,
+      64
+    ]
+  },
+  {
+    "asset": "moltres-walk.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\pokemon\\moltres\\icon.png",
+    "size": [
+      32,
+      64
+    ]
+  },
+  {
+    "asset": "room-nurse.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\object_events\\pics\\people\\nurse.png",
+    "size": [
+      16,
+      32
+    ]
+  },
+  {
+    "asset": "room-clerk.png",
+    "source": "D:\\实习、找工作记录\\宝可梦火红网页复刻\\pokefirered-master\\graphics\\object_events\\pics\\people\\clerk.png",
+    "size": [
+      16,
+      32
+    ]
+  }
+]
